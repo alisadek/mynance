@@ -1,0 +1,12 @@
+.tile {
+	width: 240px;
+	height: 160px;
+	cursor: pointer;
+
+	box-shadow: 9px 16px 23px -15px rgba(197, 208, 245, 0.75);
+	-webkit-box-shadow: 9px 16px 23px -15px rgba(197, 208, 245, 0.75);
+	-moz-box-shadow: 9px 16px 23px -15px rgba(197, 208, 245, 0.75);
+}
+.tile:hover {
+	transform: scale(1.03);
+}
