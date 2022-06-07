@@ -1,7 +1,7 @@
 import { Stack } from "@mui/material";
 import React from "react";
-import RightColumn from "../../right-column/right-column.component";
-import TileGroup from "../../tile-group/tile-group.component";
+import RightColumn from "../../components/right-column/right-column.component";
+import TileGroup from "../../components/tile-group/tile-group.component";
 
 const Dashboard = () => {
 	return (
